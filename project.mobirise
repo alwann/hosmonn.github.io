@@ -1621,7 +1621,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Amapolas. 70x100 cm.",
+                "caption": "Amapolas. 70x100 cm. <a href=\"page2.html#header3-1b\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": true
               },
               {
@@ -1634,7 +1634,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Verano Feliz. 70x100 cm.",
+                "caption": "Verano Feliz. 70x100 cm. <a href=\"page2.html\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": false
               },
               {
@@ -1647,7 +1647,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Amapolas Paris. 70x100 cm.",
+                "caption": "Amapolas Paris. 70x100 cm.&nbsp;<a href=\"page2.html#header3-1c\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": false
               },
               {
@@ -1660,7 +1660,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Orquideas en mi jardin. 70x100 cm.",
+                "caption": "Orquideas en mi jardin. 70x100 cm.&nbsp;<a href=\"page2.html#header3-1d\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": false
               },
               {
@@ -1673,7 +1673,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Noches largas. 70x100 cm.",
+                "caption": "Noches largas. 70x100 cm.&nbsp;<a href=\"page2.html\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": false
               },
               {
@@ -1686,7 +1686,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Vacaciones en Roma. 70x70 cm.",
+                "caption": "Vacaciones en Roma. 70x70 cm.&nbsp;<a href=\"page2.html\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": false
               },
               {
@@ -1699,7 +1699,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Fragmentos del Mundo. 100x70 cm.",
+                "caption": "Fragmentos. 100x70 cm.&nbsp;<a href=\"page2.html\" class=\"text-success\">VER&gt;&gt;</a>",
                 "active": false
               }
             ]
