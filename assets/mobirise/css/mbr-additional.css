@@ -1541,8 +1541,16 @@ section.lazy-placeholder:after {
 .cid-siCxPI7JTM .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-siHHN8jcQe {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-siHHN8jcQe .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-siCGNcEJ2J {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #ffffff;
   overflow: hidden;
