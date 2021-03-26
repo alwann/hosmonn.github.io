@@ -864,10 +864,14 @@ section.lazy-placeholder:after {
 .cid-sp5GY2msu5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-sp5GY2msu5 P {
   color: #767676;
+}
+.cid-sp5GY2msu5 .mbr-text,
+.cid-sp5GY2msu5 .mbr-section-btn {
+  color: #000000;
 }
 .cid-srQFeAXXjX {
   padding-top: 90px;
