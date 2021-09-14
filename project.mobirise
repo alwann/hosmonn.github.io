@@ -632,7 +632,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "100x100 cm.&nbsp;[Vendido] <a href=\"page2.html\">Link</a>",
+                "caption": "100x100 cm.&nbsp;[Vendido] <a href=\"page2.html\"><b>Link</b></a>",
                 "active": true
               },
               {
@@ -645,7 +645,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "100x100 m.<b>&nbsp;</b><a href=\"index.html\">Link</a>",
+                "caption": "100x100 cm.<b>&nbsp;<a href=\"index.html\"><b>Link</b></a></b>",
                 "active": false
               },
               {
@@ -658,7 +658,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "105x105 cm.&nbsp;<a href=\"index.html\">Link</a>",
+                "caption": "105x105 cm.&nbsp;<a href=\"index.html\"><b>Link</b></a>",
                 "active": false
               },
               {
